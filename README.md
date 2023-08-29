@@ -23,7 +23,7 @@
 - :trophy: 4x `Scholarship`
 - :technologist: **Currently working on** `Deep Learning` **&** `Atomic Electron Tomography`
 - :boom: You can visit [MY BILIBILI](https://space.bilibili.com/493314326) 
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Tomocrystal&amp;color=EA4335&amp;style=flat-square)](mailto:plzeng17b@imr.ac.cn)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=Email&amp;message=Tomocrystal&amp;color=EA4335&amp;style=flat-square)](mailto:plzeng17b@imr.ac.cn)
 - :nerd_face: Always believe `"Excellence is not a skill but an attitude"`
 
 <br>
