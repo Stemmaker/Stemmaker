@@ -57,6 +57,12 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-007ACC?style=flat-square&logo=MATLAB&logoColor=white)
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Code CLI
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-854FFF?style=flat-square&logo=Claude&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75FF?style=flat-square&logo=Google-Gemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=ChatGPT&logoColor=white)
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
