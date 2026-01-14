@@ -76,9 +76,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Stemmaker&show_icons=true&theme=dark&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stemmaker&theme=dark&hide_border=false" />
+  
   <br/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Stemmaker&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Stemmaker&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>  
 </p>
 
 
